@@ -1,8 +1,11 @@
+// src/app/app.module.ts
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 import { HttpClientModule } from '@angular/common/http';
 import { ReactiveFormsModule } from '@angular/forms';
 import { RouterModule, Routes } from '@angular/router';
+import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
+import { MatCardModule } from '@angular/material/card';
 
 import { AppComponent } from './app.component';
 import { QuestionFormComponent } from './question-form/question-form.component';
@@ -25,6 +28,8 @@ const appRoutes: Routes = [
     WelcomeComponent
   ],
   imports: [
+    BrowserAnimationsModule,
+    MatCardModule,
     BrowserModule,
     HttpClientModule,
     ReactiveFormsModule,
