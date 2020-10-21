@@ -1,0 +1,11 @@
+<!-- src/app/welcome/welcome.component.html -->
+<div class="welcome">
+  <h2>Welcome to Quiz Master</h2>
+  <div *ngFor="let q of quiz">
+    <!-- <div>{{q.label}}</div> -->
+    <div>{{q.description}}</div>
+    <button class="btn btn-primary">
+      <a routerLink="/{{q.name}}" class="btn btn-primary">Select this quiz</a>
+    </button>
+  </div>
+</div>

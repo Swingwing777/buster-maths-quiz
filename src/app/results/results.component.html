@@ -1,0 +1,9 @@
+<!-- src/app/results/results.component.html -->
+<div class="results">
+  <h2>Results</h2>
+  <div> Answers in <span class="answer">red </span> are incorrect. Please try again</div>
+  <div class="answer" *ngFor="let a of answers.values" [ngClass]="{correct: a.correct}">
+    {{a.value}}
+  </div>
+  <a routerLink="/welcome" class="btn btn-primary">Choose another quiz</a>
+</div>

@@ -1,0 +1,119 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The seed drill was invented by which British inventor?",
+      "correct_answer": "Jethro Tull",
+      "incorrect_answers": [
+        "Charles Babbage",
+        "Isaac Newton",
+        "J.J Thomson"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What disease crippled President Franklin D. Roosevelt and led him to help the nation find a cure? ",
+      "correct_answer": "Polio",
+      "incorrect_answers": [
+        "Cancer",
+        "Meningitis",
+        "HIV"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "Sargon II, a king of the Neo-Assyrian Empire, was a direct descendant of Sargon of Akkad.",
+      "correct_answer": "False",
+      "incorrect_answers": [
+        "True"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What age was King Henry V when he died?",
+      "correct_answer": "35",
+      "incorrect_answers": [
+        "62",
+        "87",
+        "73"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "United States President John F. Kennedy was assassinated during his presidential motorcade in Atlanta, Georgia on November 22nd, 1963.",
+      "correct_answer": "False",
+      "incorrect_answers": [
+        "True"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What was Genghis Khan&#039;s real name?",
+      "correct_answer": "Tem&uuml;jin",
+      "incorrect_answers": [
+        "M&ouml;ngke",
+        "&Ouml;gedei",
+        "Tem&uuml;r"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What was the bloodiest single-day battle during the American Civil War?",
+      "correct_answer": "The Battle of Antietam",
+      "incorrect_answers": [
+        "The Siege of Vicksburg",
+        "The Battle of Gettysburg",
+        "The Battles of Chancellorsville"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Adolf Hitler was tried at the Nuremberg trials.",
+      "correct_answer": "False",
+      "incorrect_answers": [
+        "True"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What was the code name for the Allied invasion of Southern France on August 15th, 1944?",
+      "correct_answer": "Operation Dragoon",
+      "incorrect_answers": [
+        "Operation Overlord",
+        "Operation Market Garden",
+        "Operation Torch"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who crowned Charlemagne as Holy Roman Emperor on Christmas Day in 800?",
+      "correct_answer": "Pope Leo III",
+      "incorrect_answers": [
+        "Pope Urban IV",
+        "Pope Stephen V",
+        "Pope Valentine"
+      ]
+    }
+  ]
+}

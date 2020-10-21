@@ -26,3 +26,4 @@ export class QuestionFormComponent implements OnInit {
     this.onChoiceMade.emit(this.form.value.choice);
   }
 }
+
