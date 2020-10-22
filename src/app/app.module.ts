@@ -6,6 +6,7 @@ import { ReactiveFormsModule } from '@angular/forms';
 import { RouterModule, Routes } from '@angular/router';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { MatCardModule } from '@angular/material/card';
+import { MatSliderModule } from '@angular/material/slider';
 
 import { AppComponent } from './app.component';
 import { QuestionFormComponent } from './question-form/question-form.component';
@@ -30,6 +31,7 @@ const appRoutes: Routes = [
   imports: [
     BrowserAnimationsModule,
     MatCardModule,
+    MatSliderModule,
     BrowserModule,
     HttpClientModule,
     ReactiveFormsModule,

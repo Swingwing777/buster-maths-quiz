@@ -1,9 +1,20 @@
 <!-- src/app/results/results.component.html -->
 <div class="results">
-  <h2>Results</h2>
-  <div> Answers in <span class="answer">red </span> are incorrect. Please try again</div>
-  <div class="answer" *ngFor="let a of answers.values" [ngClass]="{correct: a.correct}">
-    {{a.value}}
+  <mat-card color="primary">
+    <mat-card-title class="title">Your Results</mat-card-title>
+  </mat-card>
+  <mat-card>
+    <div class="subtitle"> Incorrect answers in <span class="answer">red </span></div>
+  </mat-card>
+
+  <!-- <div *ngFor="let q of question">
+    <mat-card class="question">{{q.label}}</mat-card>
+  </div> -->
+
+
+  <div *ngFor="let a of answers.values">
+    <mat-card class="answer" [ngClass]="{correct: a.correct}">{{a.value}}</mat-card>
   </div>
-  <a routerLink="/welcome" class="btn btn-primary">Choose another quiz</a>
+
+  <a routerLink="/welcome" class="subtitle btn btn-primary">Choose another quiz</a>
 </div>

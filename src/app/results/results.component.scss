@@ -1,9 +1,28 @@
 // src/app/results/results.component.scss
+$titletext: rgb(143, 204, 255);
+$largetext: rgb(175, 219, 255);
+$answers: rgb(193, 193, 255);
+$answerWrong: rgb(255, 0, 76);
+$answerCorrect: rgb(123, 255, 0);
+
+.title {
+  color: $titletext;
+  font-weight: 500;
+  font-size: xx-large;
+  text-shadow: 2px 2px 3px black;
+}
+
+.subtitle {
+  color: $largetext;
+  font-weight: 500;
+  text-shadow: 2px 2px 3px black;
+}
 
 .answer {
-  color: red;
+  color: $answerWrong;
+  text-shadow: 2px 2px 3px black;
 }
 
 .correct {
-  color: green;
+  color:$answerCorrect;
 }
