@@ -1,4 +1,5 @@
-# An Angular Experience
+# Quizmaster
+### An Angular Experience
 Quizmaster is a Angular-based quizzing application, at this stage offering only a simple client-side experience.
 
 ![Quizmaster(450).png](https://sweepback.co.uk/supportfiles/Readme%20Support%20Media%20-%20for%20Sweepback/Quizmaster(450).png)
@@ -96,4 +97,3 @@ License
    [GitHub]: <https://github.com/Swingwing777/buster-maths-quiz>
    [LinkedIn]: <linkedin.com/in/david-hales-3450305a>
    [Twitter]: <https://twitter.com/dwhal>
-   [Google Firebase]: <https://console.firebase.google.com/>
