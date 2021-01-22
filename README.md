@@ -91,7 +91,7 @@ License
    [Dillinger]: <https://github.com/joemccann/dillinger>
    [Node.js]: <https://nodejs.org/en/>
    [npm]: <https://www.npmjs.com/>
-   [Angular]: <https://expo.io>
+   [Angular]: <https://angular.io/>
    [angular-cli-pages]: <https://www.npmjs.com/package/angular-cli-ghpages>
    [Angular Material]: <https://material.angular.io/>
    [GitHub]: <https://github.com/Swingwing777/buster-maths-quiz>
