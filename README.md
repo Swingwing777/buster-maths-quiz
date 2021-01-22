@@ -14,8 +14,7 @@ Quizmaster uses the following technologies:
 * [angular-cli-pages] - Angular deployment tool.  Deploys Angular app to GitHub pages directly from the Angular CLI.
 * [Angular Material] - Component library.
 * [Dillinger] - The Last Markdown Editor ever.
-* And of course Buster-Chat itself is open source with a [public repository][Buster]
- on GitHub.
+* And of course Buster-Chat itself is open source on [GitHub].
 ----
 ### Installation:
 
