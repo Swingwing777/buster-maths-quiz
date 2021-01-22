@@ -1,6 +1,6 @@
 # Quizmaster
 ### An Angular Experience
-Quizmaster is a Angular-based quizzing application, at this stage offering only a simple client-side experience.
+Quizmaster is an Angular-based quizzing application, at this stage offering only a simple client-side experience.
 
 ![Quizmaster(450).png](https://sweepback.co.uk/supportfiles/Readme%20Support%20Media%20-%20for%20Sweepback/Quizmaster(450).png)
 
@@ -8,7 +8,7 @@ Quizmaster is a Angular-based quizzing application, at this stage offering only 
 
 Quizmaster uses the following technologies:
 
-* [Angular] - A framework for building native apps using React.
+* [Angular] - A framework to build apps for any deployment target. For web, mobile web, native mobile and native desktop.
 * [Node.js] - A JavaScript runtime built on Chrome's V8 JavaScript engine.
 * [npm] - Build Amazing Things.
 * [angular-cli-pages] - Angular deployment tool.  Deploys Angular app to GitHub pages directly from the Angular CLI.
